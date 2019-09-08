@@ -49,7 +49,7 @@ function userInputs(command, entertainment) {
   concert-this
   spotify-this-song
   movie-this
-  do-what-it-says'
+  do-what-it-says
   ~-~`);
     }
 }
