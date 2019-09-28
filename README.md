@@ -20,5 +20,11 @@ LIRI is a _Language_ Interpretation and Recognition Interface that works with th
     * If no command is entered, a list of the possible commands will be shown in the console.
 
 ### [Try the App!](https://github.com/Edestiny7/liri-node-app)
+# To try the app for yourself
+1. Add a .env file containing the following variables for the APIs: SPOTIFY_ID, SPOTIFY_SECRET, BANDSINTOWN_ID, and apikey.
+2. Request these keys from the following resources:
+* [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
+* [Node-BandsInTown-API] https://manager.bandsintown.com/support/bandsintown-api/
+* [Node-OMD-API] http://www.omdbapi.com/apikey.aspx
 
 Technology: JavaScript | Node.js | Git | API
